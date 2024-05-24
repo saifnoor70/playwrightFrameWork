@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IkwzcXNTTnlvMktJeFV1QU14dUR2ZVE9PSIsInZhbHVlIjoiRUtPS2xrOEZcLzZSREJEd3JNS1wvK0VmcHRwWjQyZXo2XC9OSzhjelk1bkdMZHpUY0poZUdMdUtmOUpCSE9HWTR6ZSIsIm1hYyI6IjY0YjY4ZDZjMjkwYmFkYzNjZTE5ODBlOTNjMzllNGU5YjEwOTk1YWRkNzQ2NGQ2NDcxYTVkMGRhZGFlOTBiOWYifQ%3D%3D",
+      "domain": "172.16.191.50",
+      "path": "/",
+      "expires": 1716481480.903161,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bl_cms_session",
+      "value": "eyJpdiI6InVGUllLS1B6TEc5dDhWclwvdFQxaVl3PT0iLCJ2YWx1ZSI6IlFZcU5RRUE4bjVBbytDd3grNUFZM2VnMlpHcWdhdExFYTlXUzdVcTVYU0lxQk1MVUJ4V3l2RnRmZGJSeERsK3YiLCJtYWMiOiJhNjk1MDc4YTQxYmU3YmU0N2VmNWZjMzMyMDAzZGYwOTM3NDFkNmNhYWZjZmM1Y2VmNzZkODYwMjI2YTZiNDdhIn0%3D",
+      "domain": "172.16.191.50",
+      "path": "/",
+      "expires": 1716481480.903334,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
