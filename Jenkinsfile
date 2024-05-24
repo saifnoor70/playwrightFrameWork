@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         NODE_VERSION = '14.x' // This can be adjusted if you need a specific version in the future
-        RECIPIENTS = 'your-email@gmail.com'
+        RECIPIENTS = 'saifalnoor20@gmail.com'
     }
 
     triggers {
@@ -14,7 +14,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone the repository
-                git branch: 'main', url: 'https://your-repo-url.git'
+                git branch: 'main', url: 'https://github.com/saifnoor70/playwrightFrameWork'
             }
         }
 
